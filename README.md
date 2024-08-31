@@ -1,5 +1,5 @@
 # DAMAn tietohallinnon sanasto suomeksi
-DAMAn tietohallinan sanasto
+DAMAn tietohallinnon sanasto
 
 
 DAMA Finland ylläpitää tietohallinnon sanastoa suomeksi, jotta 
