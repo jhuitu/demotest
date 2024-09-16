@@ -1,4 +1,4 @@
-# DAMAn tietohallinnan sanasto suomeksi
+# DAMAn tiedonhallinnan sanasto suomeksi
 DAMAn tiedonhallinnan sanasto
 
 
