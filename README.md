@@ -1,8 +1,8 @@
-# DAMAn tietohallinnon sanasto suomeksi
-DAMAn tietohallinnon sanasto
+# DAMAn tietohallinnan sanasto suomeksi
+DAMAn tiedonhallinnan sanasto
 
 
-DAMA Finland ylläpitää tietohallinnon sanastoa suomeksi, jotta 
+DAMA Finland ylläpitää tiedonhallinnon sanastoa suomeksi, jotta 
 
 Tässä tiedostossa on tuo taulukko suoraan luettavassa muodossa. Tiedostosta DAMA_sanasto.xls saat ladattua päivitetyn version myös itsellesi
 
